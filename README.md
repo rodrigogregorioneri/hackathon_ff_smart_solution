@@ -7,7 +7,7 @@
 - sera informado no terminal o endereço para acessar a aplicação
 
 
-# backend
+# frontend
 
 - Para rodar o backend basta compilar as dependencias em C para conseguir rodar as dependencias em Java usando "mvn clean install".
 - Segundo passo e rodar o projeto e setar uma chave valida do dropbox onde e feito o upload do documento se o arquivo pdf for tiver imagem.
