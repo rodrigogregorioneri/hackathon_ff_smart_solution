@@ -1,6 +1,6 @@
 # hackathon_ff_smart_solution
 
-# frontend
+# frontend - smart_solution_front
 
 - Para testar o frontend basta ter instalado o Vue JS na sua maquina
 - acesse via cmd ou git bash a pasta do projeto e digite no terminal vue serve para iniciar o projeto
